@@ -20,9 +20,9 @@
 <!-- <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> -->
 
 
-<a href="https://www.youtube.com/channel/UCL8phVd_Z6vSqDZIuTmwFLg/featured">
+<!-- <a href="https://www.youtube.com/channel/UCL8phVd_Z6vSqDZIuTmwFLg/featured">
   <img align="left" alt="Abhishek's Youtube" src="https://github-readme-stackoverflow.vercel.app/?userID=10645772&theme=dark" />
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/behnam-mohammadkhani-28823b191/">
   <img align="center" alt="Abhishek's LinkedIN" width="400px"  hight="100px" src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" />
