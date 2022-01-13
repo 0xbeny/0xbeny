@@ -25,10 +25,10 @@
 </a> -->
 
 <a href="https://www.linkedin.com/in/behnam-mohammadkhani-28823b191/">
-  <img align="center" alt="Abhishek's LinkedIN" width="400px"  hight="100px" src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" />
+  <img align="center" alt="Abhishek's LinkedIN" width="400px"  hight="100px" src="https://github-readme-stats.vercel.app/api?username=behnammohammadkhani&show_icons=true&theme=gotham" />
 </a>
 
-<a href="https://www.linkedin.com/in/behnam-mohammadkhani-28823b191/">
+<a href="https://github.com/behnammohammadkhani">
   <img align="center" alt="Abhishek's LinkedIN" width="210px" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
 </a>
 
