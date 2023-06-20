@@ -1,7 +1,7 @@
 <h1 align="center">Hi  I'm Beny </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Full-stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Full-stack+Web3+Developer)](https://git.io/typing-svg)
 
 <p>
   <img align="right" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/giphy.gif" alt="Ehsan"/>
